@@ -6,4 +6,12 @@
     android:layout_height="match_parent"
     tools:context="com.example.coms7.threadmessage.MapActivity">
 
+    <LinearLayout
+        android:id="@+id/fragmentHere"
+        android:orientation="vertical"
+        android:layout_width="fill_parent"
+        android:layout_height="0dip"
+        android:layout_weight="1">
+    </LinearLayout>
+
 </android.support.constraint.ConstraintLayout>

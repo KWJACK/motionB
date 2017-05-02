@@ -26,12 +26,11 @@
         android:layout_height="wrap_content"
         android:onClick="mOnClick"
         android:text="메인스레드 값 증가"/>
-
     <Button
         android:id="@+id/button"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="버튼1" />
+        android:text="지도 실행" />
 
     <Button
         android:id="@+id/button2"
@@ -44,6 +43,6 @@
         android:id="@+id/button3"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="버튼3" />
+        android:text="지도 종료" />
 
 </LinearLayout>
